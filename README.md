@@ -8,6 +8,19 @@ A repository for practising Data Structures and Algorithms using Java.
 - `notes/`: Conceptual notes and cheat sheets.
 - `progress.md`: Tracks problem-solving progress.
 
+## 📝 Solution Format
+
+Every problem should follow this standard format:
+
+- **📝 Problem Name**
+- **🌐 Platform** (LeetCode / GFG / etc.)
+- **⚡ Approach** (Short explanation)
+- **⏱ Time Complexity**
+- **📦 Space Complexity**
+- **💡 Clean and optimized Java code**
+
+*See [Template.java](file:///home/raven/dsa/dsa-java/src/main/java/dsa/Template.java) for a starter file.*
+
 ## Guidelines
 
 1. **File Naming**: Use `PascalCase` (e.g., `TwoSum.java`).
