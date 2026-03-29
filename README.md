@@ -26,7 +26,10 @@ Every problem should follow this standard format:
 - **LeetCode**
 
 ## 📚 Notes & Learning
-Additional notes and important concepts are maintained in the [notes/](file:///home/raven/dsa/dsa-java/notes/) folder to reinforce understanding.
+Additional notes and- [Sorting Algorithms](file:///home/raven/dsa/dsa-java/notes/sorting.md)
+- [DP Patterns](file:///home/raven/dsa/dsa-java/notes/dp-patterns.md)
+- [OOP in Java](file:///home/raven/dsa/dsa-java/notes/oops.md)
+ to reinforce understanding.
 
 ## 🤝 Connect With Me
 - **LinkedIn**: [saanvirajput](https://www.linkedin.com/in/saanvirajput/)
