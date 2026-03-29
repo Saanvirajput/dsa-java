@@ -21,6 +21,19 @@ Every problem should follow this standard format:
 
 *See [Template.java](file:///home/raven/dsa/dsa-java/src/main/java/dsa/Template.java) for a starter file.*
 
+
+## 🛠 Platform Used
+- **LeetCode**
+
+## 📚 Notes & Learning
+Additional notes and important concepts are maintained in the [notes/](file:///home/raven/dsa/dsa-java/notes/) folder to reinforce understanding.
+
+## 🤝 Connect With Me
+- **LinkedIn**: [saanvirajput](https://www.linkedin.com/in/saanvirajput/)
+
+## ⭐ Support
+If you find this repository useful, give it a ⭐ to support and follow my journey!
+
 ## Guidelines
 
 1. **File Naming**: Use `PascalCase` (e.g., `TwoSum.java`).
