@@ -2,7 +2,7 @@
 
 | Topic              | Easy | Medium | Hard | Total |
 |--------------------|------|--------|------|-------|
-| Arrays             | 0    | 0      | 0    | 0     |
+| Arrays             | 1    | 0      | 0    | 1     |
 | Strings            | 0    | 0      | 0    | 0     |
 | LinkedList         | 0    | 0      | 0    | 0     |
 | Stack              | -    | -      | -    | 0     |
