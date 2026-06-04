@@ -7,3 +7,4 @@
 5. Matrix Chain Multiplication
 6. DP on Trees
 7. DP on Graphs
+8. Digit DP

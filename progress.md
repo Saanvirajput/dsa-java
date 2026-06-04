@@ -11,6 +11,6 @@
 | Graph              | -    | -      | -    | 0     |
 | Recursion          | -    | -      | -    | 0     |
 | Backtracking       | -    | -      | -    | 0     |
-| DP                 | -    | -      | -    | 0     |
+| DP                 | 0    | 1      | 0    | 1     |
 | Sliding Window     | -    | -      | -    | 0     |
 | Binary Search      | -    | -      | -    | 0     |
